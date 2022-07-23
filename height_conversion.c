@@ -8,6 +8,6 @@ feet=a/30;
 rem=a%30;
 inch=rem/2.5;
 printf("The value of %d is %d\'%.2f\"\n",a,feet,inch);
-return;
+return 0;
 }
 
